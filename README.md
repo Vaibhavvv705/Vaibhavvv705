@@ -1,6 +1,6 @@
 # Hi there👽
 
-## 💫 About Me:
+## About Me:
 ---
 🎓 B.Tech Cybersecurity Student  
 🥸 Currently learning AI/ML and Web Development  
