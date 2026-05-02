@@ -37,18 +37,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-800080?style=for-the-badge&logo=hackaday&logoColor=white)
 
-## 📊 GitHub Stats:
----
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&layout=compact)
-
-## 🏆 GitHub Trophies:
----
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## ✍️ Random Dev Quote:
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
